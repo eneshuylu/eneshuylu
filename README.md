@@ -9,7 +9,7 @@ Software Developer
 
 
 * ✉️  You can contact me at [eneshuylu10@gmail.com](mailto:eneshuylu10@gmail.com)
-* 🧠  I'm learning C#, .NET MVC Core, JS, CSS, HTML, Bootstrap, EF Core, jQuery and image processing
+* 🧠  I'm learning C#, .NET MVC Core, JS, HTML, CSS, Bootstrap, EF Core, jQuery and image processing
 
 
 ### Skills
