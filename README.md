@@ -12,7 +12,6 @@ A passionate Software Developer
 * ✉️  You can contact me at **[eneshuylu10@gmail.com](mailto:eneshuylu10@gmail.com)**
 
 ### Skills
-----------------
 <p align="left">
 <!-- Programming Languages -->
 <a href="https://github.com/dotnet/csharplang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
@@ -32,7 +31,6 @@ A passionate Software Developer
 </p>
 
 ### Socials
-----------------
 <p align="left">
 <a href="https://linkedin.com/in/eneshuylu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneshuylu" height="30" width="40" /></a>
 <a href="https://medium.com/@eneshuylu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eneshuylu10" height="30" width="40" /></a>
