@@ -1,9 +1,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋"> -->   
-    ## Hi there 👋
+  <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋"> -->
+  ## Hi there 👋
   </a>
 </h1>
+
+## Hi there 👋
 
 A passionate Software Developer
 ----------------
