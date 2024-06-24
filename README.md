@@ -13,17 +13,17 @@ A passionate Software Developer
 
 
 <span>
-<p align="left">
+<span align="left">
 1
-</p>
+</span>
 
-<p align="center">
+<span align="center">
 2
-</p>
+</span>
 
-<p align="right">
+<span align="right">
 3
-</p>
+</span>
 </span>
 
 
