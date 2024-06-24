@@ -8,7 +8,8 @@ A passionate Software Developer
 ----------------
 
 ### Work
-* 🧠  I'm learning **C#, .NET MVC Core, JS, HTML, CSS, Bootstrap, EF Core, jQuery and image processing**
+* 🔭   I'm currently working on **C#, Databases, EF Core, and Image Processing**
+* 🧠  I'm currently learning **.NET MVC Core, JS, HTML, CSS, Bootstrap, and jQuery**
 * ✉️  You can contact me at **[eneshuylu10@gmail.com](mailto:eneshuylu10@gmail.com)**
 
 ### Skills
