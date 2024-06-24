@@ -11,6 +11,23 @@ A passionate Software Developer
 * 🧠  I'm learning **C#, .NET MVC Core, JS, HTML, CSS, Bootstrap, EF Core, jQuery and image processing**
 * ✉️  You can contact me at **[eneshuylu10@gmail.com](mailto:eneshuylu10@gmail.com)**
 
+
+<span>
+<p align="left">
+1
+</p>
+
+<p align="center">
+2
+</p>
+
+<p align="right">
+3
+</p>
+</span>
+
+
+
 ### Programming Languages
 <p align="left">
 <a href="https://github.com/dotnet/csharplang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
