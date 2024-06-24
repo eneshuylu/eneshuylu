@@ -12,7 +12,6 @@ A passionate Software Developer
 * ✉️  You can contact me at **[eneshuylu10@gmail.com](mailto:eneshuylu10@gmail.com)**
 
 
-<p align="left">
 
   <span align="left">1</span>
   <span align="center">2</span>
@@ -37,7 +36,6 @@ A passionate Software Developer
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   </span>
 
-</p>
 
 
 ### Devops
