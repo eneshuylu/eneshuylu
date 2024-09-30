@@ -34,5 +34,5 @@ A passionate Software Developer
 ### Socials
 <p align="left">
 <a href="https://linkedin.com/in/eneshuylu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneshuylu" height="30" width="40" /></a>
-<a href="https://medium.com/@eneshuylu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eneshuylu" height="30" width="40" /></a>
+<a href="https://medium.com/@eneshuylu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eneshuylu" height="30" width="40" /></a>
 </p>
