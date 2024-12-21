@@ -8,7 +8,7 @@ A passionate Software Developer
 ----------------
 
 ### Work
-* 🔭  I'm currently working on **ASP.NET MVC, JS, HTML, CSS, Firebase, SQL Server, PostgreSQL, jQuery, DevExtreme**
+* 🔭  I'm currently working on **ASP.NET MVC, JS, HTML, CSS, Firebase, SQL Server, PostgreSQL, jQuery AJAX and DevExtreme**
 * 🧠  I've experience in building desktop applications by WPF and creating image processing projects by **Mvtec's Halcon and DL Tool**
 * ✉️  You can contact me from **[eneshuylu10@gmail.com](mailto:eneshuylu10@gmail.com)**
 <!-- 🧠  I'm currently learning **ASP.NET, JS, HTML, CSS, Firebase jQuery, DevExtreme** -->
