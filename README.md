@@ -8,8 +8,8 @@ A passionate Software Developer
 ----------------
 
 ### Work
-* 🔭   I'm currently working on **ASP.NET, JS, HTML, CSS, Databases, Mobile Development, and Image Processing**
-* 🧠  I'm currently learning **ASP.NET, JS, HTML, CSS and Mobile Development**
+* 🔭   I'm currently working on **ASP.NET, JS, HTML, CSS, Firebase, SQL Server, PostgreSQL, jQuery and Image Processing**
+<!-- 🧠  I'm currently learning **ASP.NET, JS, HTML, CSS, Firebase jQuery, DevExtreme** -->
 * ✉️  You can contact me at **[eneshuylu10@gmail.com](mailto:eneshuylu10@gmail.com)**
 
 ### Skills
